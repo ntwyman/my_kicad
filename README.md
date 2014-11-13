@@ -1,4 +1,8 @@
 my_kicad
 ========
 
-My KiCad library for accumulating useful components
+My KiCad library for accumulating useful components.
+
+
+
+
